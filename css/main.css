@@ -45,5 +45,14 @@
         justify-content: space-between;
         align-items: center;
     }
+    .logo {
+        margin: 20px 0px 20px 30px;
 
+    }
+    .menu {
+        margin: 0px 30px 0px 0px;
+    }
+    .main-text {
+        font-size: 40px;
+    }
 }
